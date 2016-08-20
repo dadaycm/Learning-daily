@@ -232,3 +232,44 @@ vim skill
 
 上午：买水果，买水，买面包，去玛雅水上公园。
 晚上9:10 发现，百度云盘上传到一半的时候中止了。
+
+# 0820 Sat
+7:00 Daughter gets up.
+Check Baidu Cloud uploading. Restart Baidu Cloud client.
+8:00 Go back to MacBookPro 15.
+XAMPP is recommended by Yue Xiang. downloading & trying it.
+
+ ====
+
+- Learning (books & vedio )
+ > * Computer
+ > * Life
+ > * English
+ > * management
+ > * Artisan
+
+- bin
+> * mac
+> * ubuntu/Linux
+> * windows
+
+- Job Data
+
+- Private Data
+
+===
+
+
+Thinking about my career development
+
+- review my career history and think:
+> what kind of job really makes me happy? easy? interested?
+> Job market is changing. What skills do oz really need? Now, the following 10 years?
+
+Lunchtime forgot key, ask for help, resorting to swimming team leader; swimming; downloading Microsoft Office for mac;
+
+Afternoon: Li Xueping comes to fetch frozen bags
+
+Super time: pick up King 3 Gold from Xinzhuang North
+Check for price of DELL 2415q
+downloading Vmware Fusion
