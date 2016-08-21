@@ -76,3 +76,6 @@
 - tough
 > * Stock Exchange business logic
 > * Sun Solaris / Linux / Unix programming & debugging
+
+# summary
+Something is so hard, which makes me lose my heart. Especially, debugging under different platforms, trying to let the problem re-occur once again, is so time-consuming and non-productive.
