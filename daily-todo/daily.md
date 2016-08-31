@@ -1,8 +1,13 @@
 # 0901 Wednesday
-4am Do what I really love: Php books downloading / 
+4am Do what I really love: Php books downloading /
 Practice Ruby pure.
  _Beginning Ruby_ is the best  book.
 Finish the first RUBY exercise of reading daily.md file and reverse it and write it back and save file.
+
+from tmall, buy board, costing ¥445, which is Y45 cheaper than jd.com
+
+try ruby on rails getting started exercise. As long as I keep careful enough, it will succeed.
+Puzzle: how to config Appache for Laravel in mac?
 
 
 ============
