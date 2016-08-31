@@ -241,7 +241,7 @@ XAMPP is recommended by Yue Xiang. downloading & trying it.
 
  ====
 
-- Learning (books & vedio )
+- Learning (books & video )
  > * Computer
  > * Life
  > * English
@@ -273,3 +273,111 @@ Afternoon: Li Xueping comes to fetch frozen bags
 Super time: pick up King 3 Gold from Xinzhuang North
 Check for price of DELL 2415q
 downloading Vmware Fusion
+
+# 0821 Sunday
+Try to make clean all my data stored in handy hard disks.
+Install Adobe Lightroom/Photoshop
+Night 8-11 quarrel with my wife
+
+# 0822 Monday
+to-do:
+> * contact some friends
+> * go on with data Clean : try to Finish
+
+07:00 format old Xi-An 1T disk. It is ready now.
+Afternoon  Take photo for Daughter
+Evening Clean my small room: cables, etc.
+
+# 0823 Tuesday
+Morning 11:30am received display DELL.
+
+doublet if it is second hand.
+
+call dell to confirm that.
+
+check and try.
+
+It was sold and had an order number at Aug 8th , to a Beijing company. Furthermore, it is unattached from a whole computer instead of an independent display.
+
+Fortunately I found an defect which may trigger a changing product from DELL.
+
+Customer represent agreed to send me an email before 5.30pm today to discuss further handling.
+
+7pm finish Lightroom yesterday my daughter's picture.
+7-9 pm swimming, new swimming skill taught by little girl's father.
+
+# 0824 Wednesday
+Morning downloading CentOS-7 / Dream Weaver
+
+Try web Storm / Dream Weaver
+
+Investigate DELL monitor & Negotiate with seller. compensate: 50 RMB.
+
+Swimming with daughter
+
+Go NewBridge Town to sell hard disk, no shop owner is willing to show interest.
+
+# 0825 Thursday
+Morning best sports with honey
+Lunch time going shopping to CareFoure, with wife, daughter.
+Afternoon reluctuntly go swimming.
+Practise Lightroom for a whole day.
+
+# 0826 Friday
+Morning 4am gets up.
+Finish Qiuliang book.
+Resemble two lightroom projects from 5d3 & 5dsr to family and non-family.
+Buying SSD handy disk.
+Honey to shopping with elder daughter.
+
+Evening talk to Peng Jie:
+Linux fro scratch, Anroid expert;
+WordPress
+Ruby/Python
+
+# 0827 Saturday
+Morning 5am gets up
+prepare for netac feedback so as to get back bonus of RMB ¥50
+browse for ruby;
+update laravel to 5.3. check document.
+
+Trying to check & install:
+ rails
+
+# 0828 Sunday
+buy books:
+ - ruby
+ - Photoshop
+ - wechat php development
+
+Go shopping with wife, prepare for children playing Disney.
+
+# 0829 Monday
+sell part of stock at price 27.3 & 27.25.
+It proves correct choice.
+short line strategy.
+5pm Help wife with business. Morning send children to metro.
+compare ruby/Python/PHP, trying to analyze job opportunities in OZ by python seek.com
+practice Photoshop basic
+6pm look after my daughter
+9pm Sleep early
+
+# 0830 Tuesday
+4am  Do what I really love
+
+Essential skills referred frequently by seek.com.au:
+* NoSql
+* AWS
+* Docker
+* WordPress
+
+Check with seek.com.au to compare Ruby, Python & Php, even Java.
+Conclution:
+ * Ruby & R o R is what I love the most.
+ * Python, maybe very suitable for me to get a job, long-term.
+ * Php, just so so.
+
+ Yue Xiang comments that,
+  * Ruby is ok but Python not too much.
+  * big data is not popular in OZ.
+  * Mastering PHP basic is enough.
