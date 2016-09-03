@@ -1,4 +1,27 @@
-# 0901 Wednesday
+# 0902 Friday
+4:00am get up to check Qi-Lianshan vedio
+        read books about stock trading strategy
+7:30 Get a call and prepare to drive to 9ting town to pick up goods, along with my wife.
+9:30 Get back home and sleep.
+11:30 Send wife and nephew to take railway to enroll for a test. Look after my daughter;
+Lunch.
+Printing books:
+ * PHP pocket book
+ * Watcom manual
+ * Headfirst WordPress
+ * Content of Mastering AWS development
+
+Watch vedios of Qi-Lianshan, which is really better than the big book.
+6:00 pm help with packages.
+6:30 Pick up daughter & buy fruits which acts as dinner.
+
+
+# 0901 Thursday
+5:45am get up and look after my daughter
+check with books : stock trading skills
+notebook, try to find solution for my vim skill shortage. now list them
+
+# 0831 Wednesday
 4am Do what I really love: Php books downloading /
 Practice Ruby pure.
  _Beginning Ruby_ is the best  book.

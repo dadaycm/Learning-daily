@@ -1,2 +1,128 @@
+Command Ctrl Option Shift
+
+ # ⌘ ⌃ ⌥ ⇧
+
+du -sh *
+
+htop
+
+pages file : version control, like time machine.
+
+System preference: share
+
+preview: SPACE key, which applys to pictures
+
+show desktop: ⌘ + F3
+
+Zoom out with Preview: for jpg/pdf,  single `
+
+Hide all other applications: ⌥ + ⌘ + H
+
+Switch between multi-network cofiguration solution
+
+force kill a progress/ quit an application : ⌥ + ⌘ + Esc /
+  or ,   ps -ax | grep app-name;   kill -9 id
+
+Keyboard to open Docker : ⌃ + F3, release key, just use up/down to select application and Enter
+
+ __btw, ⌃ + F2 shows menu __
+
+ Block selection : ⌥ + Mouse : 备忘录 works
+
+ ⌥ + Drag: copy files
+
+ ** Spotlight find a file, then Select it, ⌘ + Enter, it will be opened in a new Finder window.
+
+ Alfred : >pwd   directly open a new terminal
+ Alfred: ⌥+⌘+C   get clipboard, snippets, etc
+
+
 
 use SourceTree to manage github local/remote sync.
+
+Safari常用快捷键
+
+1.标签（tab）操作：
+comamnd+shitt+\：所有标签页。对应手势操作：双指捏合、放开
+
+⌘+Z：恢复最近关闭的标签页
+⌘+R：刷新重载
+⌘+.：停止刷新重载
+
+⌘+L：定位网址
+⌘+enter：聚焦地址栏输入时，新标签页后台打开地址或搜索
+⌘+⇧+enter：聚焦地址栏输入时，新标签页前台打开地址或搜索
+⌘+⌥+enter：聚焦地址栏输入时，新窗口后台打开地址或搜索
+⌘+⌥+⇧+enter：聚焦地址栏输入时，新窗口前台打开地址或搜索
+
+⌘+点按：新标签页后台打开链接
+⌘+⇧+点按：新标签页前台打开链接
+⌘+⌥+点按：在新窗口中打开链接
+⌘+⌥+⇧+点按：在新窗口中打开链接，使其成为活跃窗口
+⌘+1-9：切换标签页
+
+control+tab：下一个标签页
+
+control+⇧+tab：上一个标签页
+⌘+⇧+H：当前标签页打开默认主页
+
+
+2.书签（bookmarks）操作：
+⌘+⇧+L: 显示书签边栏
+⌘+D：添加到收藏夹（书签栏）
+⌥(alt)+⌘+B：管理/编辑书签页
+⌘+⇧+N：新建书签文件夹
+control+⌘+1：显示书签边栏
+control+⌘+2: 显示阅读列表边栏
+control+⌘+3: 显示共享链接边栏
+
+
+3.阅读列表（Read it later list）：
+⌘+⇧+D：将当前页添加到阅读列表
+⇧+点按：将链接添加到阅读列表
+⌥(alt)+⌘+↑：阅读列表上一个项目
+⌥(alt)+⌘+↓：阅读列表下一个项目
+
+
+4.显示/隐藏：
+⌘+⇧+B：收藏栏
+⌘+⇧+T：标签页栏
+⌘+⌥(alt)+L：下载
+⌘+/：状态栏
+⌘+Y：显示历史记录
+
+5.查找：
+⌘+F：查找
+⌘+G/enter：查找下一个
+⇧+⌘+G/⇧+enter：查找上一个
+
+6.缩放：
+⌘++：放大
+⌘+-：缩小
+⌘+0：恢复默认
+双指点触：智能缩放
+⌘+escape：全屏
+
+7.查看扩展：
+⌘+,：偏好设置->扩展
+⌘+⌥+E：清空浏览器缓存
+⌘+⌥+U：查看页面源代码
+
+8.页面
+⌘+I：邮寄网页内容
+⌘+⇧+I：邮寄网页的链接
+↑↓：小范围的垂直滚动页面
+←→：小范围的水平滚动页面
+⌥＋↑↓：整屏的滚动页面
+空格键：整屏滚动
+⇧+空格键：整屏上滚
+⌘+↑↓：网页上翻下翻到底
+
+⌘+[/]或双指左右滑动：当前标签页内前进/后退
+⌘+⇧+R：进入阅读器模式
+
+小技巧：
+窗口-合并所有窗口
+历史记录-重新打开上次关闭的窗口 ⌘+Z
+历史记录-重新打开上次连线时段的所有窗口
+设置-高级-勾选“在菜单栏中显示开发菜单”，使用⌘+⇧+J 停用javascript拷贝文字
