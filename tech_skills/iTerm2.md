@@ -1,3 +1,29 @@
+### Ctrl + A
+
+### Ctrl + E
+
+### Ctrl + w
+
+### Ctrl + u
+
+### Ctrl + k
+
+### Alt + d  : delete a word after current cursor
+
+### Alt + b  : backward a word
+
+### Alt + f  : forward move one word
+
+### Alt + u
+
+### Alt + c
+
+### Ctrl + R  -- history searching
+
+=============================
+
+```
+
 分享一些关于iterm2 的快键键:
 
 # most important
@@ -40,3 +66,4 @@
 ⌘ + f：查找，然后用 tab 和 ⇧ + tab 可以向右和向左补全，补全之后的内容会被自动复制， 还可以用 ⌥ + enter 将查找结果输入终端
 
 选中即复制，鼠标中键粘贴
+```

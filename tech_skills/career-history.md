@@ -79,3 +79,10 @@
 
 # summary
 Something is so hard, which makes me lose my heart. Especially, debugging under different platforms, trying to let the problem re-occur once again, is so time-consuming and non-productive.
+
+All those has no clear input, clear expectation, and clear instruction jobs, looks tough for me.
+
+Actually, I just like do some job which is clear, run as expected, can re-occur.
+I hate a situation which needs complicated configuration and which may results in so many different possibilities.
+
+I don't really like a job which has too many stakeholders, where elements are coupled and dependent each other. I prefer situation which is relatively simpler and easier.

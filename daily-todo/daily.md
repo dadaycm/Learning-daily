@@ -1,3 +1,43 @@
+每天要有起码一小时的时间专心思考：
+
+- 我将要解决的问题是什么？
+- 最重要的问题是什么？
+- 它的核心关键在哪里？
+- 已有的解决方案都有哪些？
+- 我如何才能给出一个更好的方案？
+- 我的方案应该如何拆解，如何逐个实施？
+
+# 0903 Saturday
+ 6:00am Search from web, print content of books: Angular; Docker; Nginx
+
+ 9:45am Learn Stock trading strategy; Safari skill : Ctrl-Tab = Shift+Cmd+->         
+
+
+- 我将要解决的问题是什么？
+> Try to get ready for finding a job in OZ for the next 2-5 years.
+
+- 最重要的问题是什么？
+> Find & select a way which suits me;
+> Try to accumulate enough knowledge and skills, experience to pass review and get a job.
+
+- 它的核心关键在哪里？
+> What I want / like
+> What I am
+> What I can
+> What I have to
+
+- 已有的解决方案都有哪些？
+> Php developer, HTML/CSS/jQuery.
+
+- 我如何才能给出一个更好的方案？
+> Do some real job which can persuade myself believe I am an engineer who is worthy to be employed.
+> Place my job to web which can be easily accessed when interviewed.
+
+- 我的方案应该如何拆解，如何逐个实施？
+> Choose something and abandon others.
+> List what I need to do.
+> Do it step by step.
+
 # 0902 Friday
 4:00am get up to check Qi-Lianshan vedio
         read books about stock trading strategy

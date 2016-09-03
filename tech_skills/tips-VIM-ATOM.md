@@ -15,7 +15,7 @@
 ## how to delete and insert
  * dw/diw/daw : remove a word
  * cw/ciw/caw : remove a word and insert here
- 
+
     ** best practice: daw/ciw works best.  das/dap;  cis/cip.**
 
  * #/*        : find WordPress
@@ -38,3 +38,21 @@
 ## Undo & Redo
  * Cmd + Z/ Cmd + Y
  * u / Ctrl-r
+
+## ATOM move -- high efficient
+   *  ⌘ + Up = gg
+   *  ⌘ + Down = G
+   *  ⌘ + Left = 0
+   *  ⌘ + Down = $  
+
+## ATOM Select -- high efficient
+     *  ⇧ + ⌘ + Up   = Select to top
+     *  ⇧ + ⌘ + Down = Select to bottom
+     *  ⇧ + ⌘ + Left = Select to Left of line
+     *  ⇧ + ⌘ + Down = Select to Right of line
+
+     *  ⌘ + A  : Select all
+     *  ⌘ + L  : Select the whole line
+
+     * move/shift one word/char fails or conflict with os X.
+     

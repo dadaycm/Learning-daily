@@ -1,21 +1,15 @@
-Command Ctrl Option Shift
+Command Ctrl Option Shift ⌘ ⌃ ⌥ ⇧ ⌘ ⌃ ⌥ ⇧
 
- # ⌘ ⌃ ⌥ ⇧
-
+pbcopy < daily.md
+pbpaste > newfile.md
 du -sh *
-
 htop
-
 pages file : version control, like time machine.
-
 System preference: share
-
 preview: SPACE key, which applys to pictures
-
 show desktop: ⌘ + F3
 
 Zoom out with Preview: for jpg/pdf,  single `
-
 Hide all other applications: ⌥ + ⌘ + H
 
 Switch between multi-network cofiguration solution
@@ -34,7 +28,7 @@ Keyboard to open Docker : ⌃ + F3, release key, just use up/down to select appl
  ** Spotlight find a file, then Select it, ⌘ + Enter, it will be opened in a new Finder window.
 
  Alfred : >pwd   directly open a new terminal
- Alfred: ⌥+⌘+C   get clipboard, snippets, etc
+ Alfred: ⌥+⌘+C
 
 
 
