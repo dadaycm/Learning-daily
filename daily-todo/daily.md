@@ -7,6 +7,30 @@
 - 我如何才能给出一个更好的方案？
 - 我的方案应该如何拆解，如何逐个实施？
 
+# 0907 Wednesday
+Employ 2 female worker for packaging job.
+Be busy with printing cards.
+buy children's books. Recieve gift red-bag from sister-in-law.
+Sleep at 9pm
+
+# 0906 Tuesday
+Empoy 2 male workers, who performed very bad.
+Book lunch from a Hunan resturant.
+Get ice-bags from Xueping's home.
+
+# 0905 Monday
+ Stock trading, selling at 27.39
+ Lunch time, look after my daughter, with new book: banma: zebra.
+ Go to Xinzhuang, Dragon's Dream, EverBright Bank
+ Help with Teacher's Day business
+
+# 0904 Sunday
+ WordPress, print it out.
+  Php 7 Pocket handbook
+  Change ink box.
+  Recieve Wenxuan's books.
+  Evening: Treat on Cousin's family
+
 # 0903 Saturday
  6:00am Search from web, print content of books: Angular; Docker; Nginx
 

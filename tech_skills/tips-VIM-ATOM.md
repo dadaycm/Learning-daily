@@ -16,10 +16,20 @@
  * dw/diw/daw : remove a word
  * cw/ciw/caw : remove a word and insert here
 
-    ** best practice: daw/ciw works best.  das/dap;  cis/cip.**
+    ** best practice: daw/ciw works best.  
+    > das/dap;  cis/cip  ## s:sentence; p: paragraph
+
+    > da"  daw
+
+    > ci"  ciw
 
  * #/*        : find WordPress
  * f/t/F/T       : t means till / souds only work for current line unde^r ATOM
+  > general situation : f/F
+
+  > to work along with d/c, t/T is employed
+
+  > e.g.  to delete the last half sentence:  f,dt.
  * /          : / works for searching ... under ATOM; /+n+N works!!!
  * Ctrl + w   : delete a word / insert mode
  * Ctrl + u   : remove all till line Beginning(0) / insert mode
@@ -55,4 +65,29 @@
      *  ⌘ + L  : Select the whole line
 
      * move/shift one word/char fails or conflict with os X.
-     
+
+
+
+## Tips from Big UNIX book
+ * gj/gk   -- wrap
+ * L : move to the bottom of screen
+  > L$
+  > L^
+  > LOw
+ * s = cl  先删后插入
+ * x = dl
+ * C = c$
+ * D = c$
+ * S = cc
+ * symbol ~  : switch between Upper & Lower
+
+ * dw /  db / dG  / dgg
+
+ * xp / deep / ddp
+ * 10yy
+ * paragraph : start with a empty new line: it can not be ommitted!!!
+
+## Very good     
+       * ]p  which is very good! paste & suitable for current intent!!!
+       * p/ P  -- pay attention to P, which insert ... to location before cursor
+       * symble % -- match {} [] ()
