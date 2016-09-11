@@ -7,6 +7,35 @@
 - 我如何才能给出一个更好的方案？
 - 我的方案应该如何拆解，如何逐个实施？
 
+# 0911 Sunday
+3:00 am awakened by air-conditioner
+3-5am: reading stock exchange skills ; install tonghuashun for mac. register.
+Morning sleep
+Lunchtime: eat steak for Muyao's birthday.
+Afternoon: help with packaging for chocholate business.
+
+
+# 0910 Saturday
+Morning stay home
+Lunchtime: Install Wacom pad & Photoshop in Muyao computer at 1st floor.
+Afternoon:  work with chocholate shop business.
+Evening: Eating fish.
+
+# 0909 Friday
+Morning: love her.Decided to visit Qingpu.
+12:00 start driving from home to Qingpu.
+12:45 Have Lunch
+2:00 Consult with real-estate agency about price of apartment.
+2:40 Start to go to Zhujiajiao
+3:30 Encountered Xiong, an road-side sales agency.
+4:00 Visit commercial-residence project.
+4:30 Go to Qingpu, payed 10,000 as ren-chou deposit.
+7:00 Start going back.
+8:30 Talk to agency
+9:00 Talk to Shanghai Nianhua sales.
+
+# 0908 Thursday
+
 # 0907 Wednesday
 Employ 2 female worker for packaging job.
 Be busy with printing cards.
