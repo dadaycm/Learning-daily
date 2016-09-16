@@ -32,7 +32,7 @@ Keyboard to open Docker : ⌃ + F3, release key, just use up/down to select appl
 
 
 
-use SourceTree to manage github local/remote sync.
+use SourceTree / Github desktop for mac, to manage github local/remote sync.
 
 Safari常用快捷键
 
@@ -120,3 +120,15 @@ control+⌘+3: 显示共享链接边栏
 历史记录-重新打开上次关闭的窗口 ⌘+Z
 历史记录-重新打开上次连线时段的所有窗口
 设置-高级-勾选“在菜单栏中显示开发菜单”，使用⌘+⇧+J 停用javascript拷贝文字
+
+pdf 300 mac skills
+####  删除TimeMachine备份的文件
+####  TimeMachine备份移动到更大的硬盘
+####  Browse old TimeMachine Disk  -- Option
+####  Save As Dialog -- Ctrl A/E/K ; Cmd+D
+####  Quickly Preview file in terminal: qlmanage -p *.jpg  space
+####  Create new notepad :  Shift+Command+Y
+####  Open / Save As : Command + R
+####  Open .   : employ finder to open the current folder
+####  Back/ Forward in application : ⌘+[   / ⌘+]
+####  Create a new folder from anywhere:  ⌘+⇧+N   (Desktop/ finder/ save as dialog)

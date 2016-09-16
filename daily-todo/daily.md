@@ -7,6 +7,33 @@
 - 我如何才能给出一个更好的方案？
 - 我的方案应该如何拆解，如何逐个实施？
 
+# 0915 Thursday Middle-Autumn-Day
+Morning sleep
+Luchtime Steak with friends: Xueping, Yanzi.
+Afternoon sleep
+Evening make tidy for paper material
+
+# 0914 Wednesday
+Morning: Being told not go to qingpu to fetch 10 thousand RMB.
+Planning to send goods to Baoshan district but then replaced by Xiao Sun, a material supplier of ours.
+evening: Buy fruits
+
+# 0913 Tuesday
+5:30am get up and reserach stock trading skills
+8:30am quaralling with wife.
+11:30am Go to Pudong, Chuan sha, for company affairs.
+Sending goods to Xin-West-South road.
+Eat supper with my wife.
+10:00pm go back home.
+
+# 0912 Monday
+5:00am get up and research stok exchange skills
+9:30am Big falling of Shanghai A stock.
+Morning help with uninstall box
+Afternoon small sleep.
+Evening look after my daughter: neighbour send gift toy once again.
+9:30-10:00pm go sleeping.
+
 # 0911 Sunday
 3:00 am awakened by air-conditioner
 3-5am: reading stock exchange skills ; install tonghuashun for mac. register.

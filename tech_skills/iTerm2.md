@@ -1,24 +1,26 @@
-### Ctrl + A
+# 最重要的terminal快捷键，让记忆力深入骨髓和肌肉：
+ *  Ctrl + A
+ *  Ctrl + E
 
-### Ctrl + E
 
-### Ctrl + w
+ *  Ctrl + w
+ *  Ctrl + u : remove the current line (whole line )
+ *  Ctrl + k : remove until end of the line
 
-### Ctrl + u
 
-### Ctrl + k
+ *  Alt + d  : delete a word after current cursor
+ *  Alt + Backspace : reverse of Alt+D
 
-### Alt + d  : delete a word after current cursor
 
-### Alt + b  : backward a word
+ *  Alt + b  
+ *  Alt + f
 
-### Alt + f  : forward move one word
 
-### Alt + u
+ *  Alt + u
+ *  Alt + c
 
-### Alt + c
-
-### Ctrl + R  -- history searching
+ *  Ctrl + R  -- history searching
+ *  Ctrl + l
 
 =============================
 
