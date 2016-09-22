@@ -121,14 +121,46 @@ control+⌘+3: 显示共享链接边栏
 历史记录-重新打开上次连线时段的所有窗口
 设置-高级-勾选“在菜单栏中显示开发菜单”，使用⌘+⇧+J 停用javascript拷贝文字
 
-pdf 300 mac skills
-####  删除TimeMachine备份的文件
-####  TimeMachine备份移动到更大的硬盘
-####  Browse old TimeMachine Disk  -- Option
-####  Save As Dialog -- Ctrl A/E/K ; Cmd+D
-####  Quickly Preview file in terminal: qlmanage -p *.jpg  space
-####  Create new notepad :  Shift+Command+Y
-####  Open / Save As : Command + R
-####  Open .   : employ finder to open the current folder
-####  Back/ Forward in application : ⌘+[   / ⌘+]
-####  Create a new folder from anywhere:  ⌘+⇧+N   (Desktop/ finder/ save as dialog)
+# pdf 300 mac skills
+* ######    删除TimeMachine备份的文件
+* ######    移动TimeMachine备份到更大的硬盘
+* ######    可选时光机Browse old TimeMachine Disk  -- Option
+* ######    行命令技巧的复用：Save As Dialog -- Ctrl A/E/K ; Cmd+D
+* ######    命令行快速打开文件Quickly Preview file in terminal: qlmanage -p *.jpg  space
+* ######    创建剪贴笔记文件于桌面Create new notepad :  Shift+Command+Y
+* ######    打开当前文件夹的finder程序：Open / Save As : Command + R
+* ######    命令行调用finder： Open .   : employ finder to open the current folder
+* ######    应用程序前进后退：Back/ Forward in application : ⌘+[   / ⌘+]
+* ######    任意位置创建新的文件夹：Create a new folder from anywhere:  ⌘+⇧+N   (Desktop/ finder/ save as dialog)
+
+Learning UNIX for OS X  Dave Taylor
+mdfind
+open
+ssh
+
+rm -i .[^.]*  // matches all hidden files except . or ..
+du -s *   .[^.]*
+df -h
+df -H  // 1000 instead of 1024
+chmod ug=rw *
+chomd go= dirname
+chmod go-rwx dirname
+chmod u=rwx,go=rx dirname
+
+groups
+
+chgrp
+chown
+mv *.{jpg, JPG}   jpg\
+mkdir -p spy/ch{01,02,03,04,05,intro,toc,index,bio}
+cp -i ../john/ch[1-3].doc Documents
+
+
+grep -s firewall *
+
+m2u  
+u2m
+
+tar c|x
+tar -czvf ...
+tar -xzvf ...

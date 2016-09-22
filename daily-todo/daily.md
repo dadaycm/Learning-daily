@@ -7,9 +7,61 @@
 - 我如何才能给出一个更好的方案？
 - 我的方案应该如何拆解，如何逐个实施？
 
+
+
+# 0922 Thursday
+5:45am get up and read books: dragon-fountain-monk-wisdom
+8:30-9:50 send daughter to Angel orgnization to take lesson
+10:00 Go to Gudai rd to fetch car.
+Lunchtime install os x 10.12 to small mac.
+Afternoon sleep
+Evening ...
+
+# 0921 Wednesday
+Afternoon Go to Gudai Rd to maintain my car.
+Talk to my wife about 3 topics:
+ * relatives: children & parents
+ * money & investment decision
+ * career development
+Dinner: Jiangxi resturant
+
+# 0920 Tuesday
+Xujing town :
+ - 420w, 4floor, Jieke town
+ - look at Perl Garden
+ - look at Gold Water Bay
+ - Have dinner: Xiang-guo
+ - wife says to buy 2 bedroom to avoid risk.
+ - Articles says Chinese house price is dangerous.
+
+# 0919 Monday
+ Xujing town :
+  - Guanghong Garden: 4th floor, not bright, street side.
+  - Perl Garden : 475w, 2nd floor, west-ward, 124.8m2.
+  - Dinner: Jiangxi resturant
+
+# 0918 Sunday
+Xujing town:
+  - Lianjia, Yang
+  - Haodu international
+  - Jieke town
+  - Gold Water Bay
+  - Dinner : Jiangxi
+  - Hepan: Riverbank Garden
+  - Lianjia shop
+
+# 0917 Saturday
+Qingpu district:
+  - Apply for Refund  ¥ 10,000, fighting
+  - have Dinner
+
+# 0916 Friday
+Early morning : Daughter waked up and take her downstair with her elder sister, buying breakfast.
+Lunchtime Fish for friends
+  
 # 0915 Thursday Middle-Autumn-Day
 Morning sleep
-Luchtime Steak with friends: Xueping, Yanzi.
+Lunchtime Steak with friends: Xueping, Yanzi.
 Afternoon sleep
 Evening make tidy for paper material
 
