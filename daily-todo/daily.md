@@ -7,15 +7,25 @@
 - 我如何才能给出一个更好的方案？
 - 我的方案应该如何拆解，如何逐个实施？
 
+# 0923 Friday
+7:00am get up and research Django learning way, from zhihu.
+Focus on what really matters.
+Headache, seriously, heavily.
+Have a rest.
+Back up time machine.
+Answer calls from real estate agencies.
+read book & make notes: principles.
+Walk through neighbourhood along with nephew.
 
 
 # 0922 Thursday
 5:45am get up and read books: dragon-fountain-monk-wisdom
 8:30-9:50 send daughter to Angel orgnization to take lesson
 10:00 Go to Gudai rd to fetch car.
-Lunchtime install os x 10.12 to small mac.
-Afternoon sleep
-Evening ...
+Lunch-time install os x 10.12 to small mac.
+Afternoon sleep.
+Evening ...Prapare to sell apartment in Yi-chang.
+
 
 # 0921 Wednesday
 Afternoon Go to Gudai Rd to maintain my car.
@@ -58,7 +68,7 @@ Qingpu district:
 # 0916 Friday
 Early morning : Daughter waked up and take her downstair with her elder sister, buying breakfast.
 Lunchtime Fish for friends
-  
+
 # 0915 Thursday Middle-Autumn-Day
 Morning sleep
 Lunchtime Steak with friends: Xueping, Yanzi.
