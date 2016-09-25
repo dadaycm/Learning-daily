@@ -7,6 +7,18 @@
 - 我如何才能给出一个更好的方案？
 - 我的方案应该如何拆解，如何逐个实施？
 
+# 0926 Monday
+相信任大炮，应该选择上海购房
+
+# 0925 Sunday
+Talk to my aunt and my brother about selling apartment in Yi-chang.
+Read book: principles : yuanze.pdf.
+Try to learn django.
+
+# 0924 Saturday
+6:30am get up and take daughter downstair.
+Searching for Australia blogs: tigtag, oursteps, freeoz.
+
 # 0923 Friday
 7:00am get up and research Django learning way, from zhihu.
 Focus on what really matters.
