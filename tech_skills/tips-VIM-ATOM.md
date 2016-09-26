@@ -88,6 +88,6 @@
  * paragraph : start with a empty new line: it can not be ommitted!!!
 
 ## Very good     
-       * ]p  which is very good! paste & suitable for current intent!!!
-       * p/ P  -- pay attention to P, which insert ... to location before cursor
-       * symble % -- match {} [] ()
+ * ]p  which is very good! paste & suitable for current intent!!!
+ * p/ P  -- pay attention to P, which insert ... to location before cursor
+ * symble % -- match {} [] ()

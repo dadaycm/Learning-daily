@@ -13,12 +13,31 @@ Php data types:
  * resource
 > undefined variable, the value is assiged to null automatically
 
-Comparison Operation:
-==
+## Comparison Operation:
+```
 ===
 !==
-```
   $x = (1=="1")
   $y = (1==="1")
+<=>    //  0 for equal; -1 for others
 ```
-<=>    :  0 for equal; -1 for others
+
+## Logical Operation
+```
+!
+&&
+||
+and
+or
+xor
+```
+
+## Bitwise Operation
+```
+&
+|
+^
+<<
+>>
+~
+```
