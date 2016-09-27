@@ -7,6 +7,20 @@
 - 我如何才能给出一个更好的方案？
 - 我的方案应该如何拆解，如何逐个实施？
 
+# 0927 Tuesday
+morning print & read python / django
+lunchtime pick up my wife from Xujing
+afternoon look at houses
+evening go back from songjiang to home , buying fruits
+read about principles
+browse comments about real estate.
+keyword: truth desire goal weakness
+ - what is true
+ - what I really want & what can be given up
+ - what is the problem / weakness
+ - what to do about it
+
+
 # 0926 Monday
 相信任大炮，应该选择上海购房
 

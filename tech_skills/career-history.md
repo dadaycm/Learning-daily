@@ -1,3 +1,40 @@
+有舍才有得，放心，放弃一些次要东西，才能实现重要的目标！！！
+资源有限，时间有限。
+
+TRUTH, Weakness, reality, Goal , Solution
+ - Wise choice is much more important than hard work
+ - Work hard to find what I can do
+ - List barries/ problems
+ - Work hard to find solutions to the above problems
+
+我渴望做一定的安排，可惜这个世界，不是以我的意志为转移的。
+
+## Desire理想的状况（desire）：
+ - I speak fluent English. Excellent communication skills.
+ - physically, very strong; at least healthy.
+ - Younger and good at learning new things.
+ - job: experienced expert in one domain, such like data scientist.
+
+
+## Reality：
+ * 年龄 44
+ * 身体 Healthy 80%; sometimes not that good.
+ * 经验 between 1997-2009, programmer, solve some small problem, database logic, C++ language skills, ...
+ * 兴趣 photography/ politics/ novel writing / travelling with family
+ * 擅长之处(strength) reflection on myself / read books
+ * 短板 weakness:
+  - not good at holistic understanding operation system and big system.
+  - Feel bored when concept is complicated.
+  - Feel crazy when manual is unavailable or not up-to-date.
+  - hate being working under heavy pressure.
+
+
+## Goal ：
+ * Settle down.
+ * Just find a job and make money to support family.
+ * If the skill can be reused, that should be better.
+
+
 # 1994 wugang
 - easy
 > * foxbase over Accountant
