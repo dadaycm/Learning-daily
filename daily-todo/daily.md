@@ -7,6 +7,17 @@
 - 我如何才能给出一个更好的方案？
 - 我的方案应该如何拆解，如何逐个实施？
 
+# 0929 Thursday
+morning send child and baby-sitter to CareFour playground.
+research python programming.
+lunchtime
+afternoon sleep a while.
+evening: daughter had fever
+
+# 0928 Wednesday
+
+Evening : drive to Sijing town for company business.
+
 # 0927 Tuesday
 morning print & read python / django
 lunchtime pick up my wife from Xujing
