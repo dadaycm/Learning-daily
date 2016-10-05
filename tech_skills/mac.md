@@ -1,7 +1,10 @@
 Command Ctrl Option Shift ⌘ ⌃ ⌥ ⇧ ⌘ ⌃ ⌥ ⇧
 
+pbcopy < ~/.ssh/id_rsa.pub
+
 pbcopy < daily.md
 pbpaste > newfile.md
+
 du -sh *
 htop
 pages file : version control, like time machine.

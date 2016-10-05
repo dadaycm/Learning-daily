@@ -1,12 +1,16 @@
+# Question:
+盲打，苹果键盘的辅助键shift，Alt等的手势
+
 # 最重要的terminal快捷键，让记忆力深入骨髓和肌肉：
+* !2277 调出历史命令后可以修改再执行   # 2277 is history command number
+
+
  *  Ctrl + A
  *  Ctrl + E
-
 
  *  Ctrl + w
  *  Ctrl + u : remove the current line (whole line )
  *  Ctrl + k : remove until end of the line
-
 
  *  Alt + d  : delete a word after current cursor
  *  Alt + Backspace : reverse of Alt+D

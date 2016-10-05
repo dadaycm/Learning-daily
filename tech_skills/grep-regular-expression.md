@@ -1,4 +1,11 @@
+# Question？
+反向引用
+命名分组
+()  Capture a group which can be backreferenced as  $1,  $2,... $9
+
+# Done:
  ^\s*#     comment; before #, there is 0 or many spaces
+
 
  ^\s+#     comment; before #, there is at least one space or more spaces
 
@@ -18,7 +25,6 @@
  ^ $
 [0-9] [a-z]
 [^abc]       : single character which is not a, not b, not c.
-()  Capture a group which can be backreferenced as  $1,  $2,... $9
 
 ##  sample to parse mobile number:
  - input

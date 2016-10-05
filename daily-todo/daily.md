@@ -7,6 +7,67 @@
 - 我如何才能给出一个更好的方案？
 - 我的方案应该如何拆解，如何逐个实施？
 
+# 1005 Wednesday
+4:30 get up with a dream.
+读书有感：贪多嚼不烂，分割是王道。专注的力量。敢于舍弃的勇气。选择的智慧。花钱解决问题。充分利用资源。
+积极解决(deployment)拦路虎：这不是缺陷（complain），而是特性（solution），阻挡劣质竞争者的门槛！
+技术是复杂的，终极目标是走向简单，但是最求简单的道路是曲折的。
+如果打工不成功，就做一个技术创业者。
+
+Ruby on Rails的经典应用：Twitter，Github，本技术不是性能的障碍。
+
+但从网站开发的需求量来说，php rails django
+从其他应用（特别是大数据，金融行业）来说，python java
+其他比较火
+复合技能：RoR/Php;  RoR/Python ; Angular,React
+
+# 1004 Tuesday
+2:30am get up
+finish reading : beginning ruby.
+6-8am sleep
+return back to rails tutorial : getting started with Rails 材料组织混乱，部分步骤验证不通过，annoying
+
+Afternoon : buy Chinee book: Ruby on Rails 5 Tutorial , ¥60 , most helpful, powerful!!!
+
+
+
+# 1003 Monday
+3:30am cold by air-conditioner
+search by: grammer difference between Ruby & Python, Rails & Django
+result: gem for ruby on rails.
+
+## review of my learning history from Feb to Oct 2016, about 7 months
+ - Php grammer & exercise; no, I don't love PHP at all. Feb, March
+ - linux/ubuntu/virutal machine/ Laravel Homestead , good, basic command line. March,April, May, June.
+ - broken for summer: Li Xiaolai, MAC OS X; github; swimming. July, August.
+ - ruby/python. September
+
+
+
+# 1002 Sunday
+morning 6am tried to dress daughter but failed. Wife took over soon.
+Morning send wife, daughters to take metro line1.
+print books: ruby; sonben xinghong's 2 books, got profit much!
+print job position from seek.com, ruby on rails.
+conclusion:both Python & Ruby are good. Learn both and try to get job from either.
+高薪水工作，专家级别的能力和定位。独立接活的能力。
+
+# 1001 Saturday
+4am get up.
+morning XiaoDai is off.
+lunchtime drive to Xinzhuang for movie but returned soon, for recieving boxes.
+have lunch at Hunan resturant.
+print book : Python series. 关于新旧class的说明，很不好理解！怀疑python的选择是不是正确的。怀疑是否love，是否有可能成为专家。（Django tutorial成功完成。感觉不错：后台数据的管理能力，赞！）
+evening: browse from zhihu,
+黑客与画家（语言的比较，库，生态链），
+Ruby 松本行弘的程序世界／编程的未来。 关于ruby的原编程能力
+
+# 0930 Friday
+
+Dive into Python 3.
+print book and read it, pratise it.
+sleep late.
+
 # 0929 Thursday
 morning send child and baby-sitter to CareFour playground.
 research python programming.
