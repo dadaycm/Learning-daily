@@ -1,3 +1,6 @@
+
+
+
 每天要有起码一小时的时间专心思考：
 
 - 我将要解决的问题是什么？
@@ -7,12 +10,35 @@
 - 我如何才能给出一个更好的方案？
 - 我的方案应该如何拆解，如何逐个实施？
 
+# 1008 Saturday
+rails new ...
+change gem file
+bundler install --without production
+app/controllers/application_controller.rb
+app/config/routes.rb
+
+
+# 1007 Friday
+
+为防止当前域名失效，建议保存收藏备用地址： http://vpnurl.com/stx362747
+
+# 1006 Thursday
+2am sleep, 5:30am~6:20am get up
+
+
 # 1005 Wednesday
 4:30 get up with a dream.
 读书有感：贪多嚼不烂，分割是王道。专注的力量。敢于舍弃的勇气。选择的智慧。花钱解决问题。充分利用资源。
 积极解决(deployment)拦路虎：这不是缺陷（complain），而是特性（solution），阻挡劣质竞争者的门槛！
 技术是复杂的，终极目标是走向简单，但是最求简单的道路是曲折的。
 如果打工不成功，就做一个技术创业者。
+
+## What's done:
+- heroku
+- Github
+- sqlite3
+- ruby grammer
+
 
 Ruby on Rails的经典应用：Twitter，Github，本技术不是性能的障碍。
 
