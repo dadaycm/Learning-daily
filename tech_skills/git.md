@@ -11,7 +11,7 @@ git checkout -- filename
 ### for part which has been staged already
 git diff HEAD
 git reset HEAD filename
-
+> it change the file status from staged back to working (unstaged)
 
 ## history of my job
 rails new ...
