@@ -10,6 +10,21 @@
 - 我如何才能给出一个更好的方案？
 - 我的方案应该如何拆解，如何逐个实施？
 
+# 1204 Sunday
+uninstall & install:
+ohMyZsh
+Anaconda
+virtualBox
+vagrant
+github project
+
+reorgnize baidu yun pan
+
+
+# 1203 Saturday
+reinstall Mac OS X
+
+
 # 1008 Saturday
 rails new ...
 change gem file
