@@ -1,0 +1,58 @@
+
+$logger  ?:  new Logger;
+throw new Exception()string
+模板模式
+就是抽象基类做了大部分的工作，具体那只需要把哦一个很具体东西补全。
+
+责任链传递
+击鼓传花。就是他们的过程中会用一个suceedwith方法来指定下一任是谁.有一个方法叫下一个next下一个方法的具体实现里面会直接指定她的继任者旅行相关的职者。
+
+策略模式
+各种策略都实现了同一个各种策略都实现了同一个抽象的接口.他们是可以相互替换的.。某个消费客户类的这个构造函数里面通常使用这个抽象的interface作为它的构造依赖。点行啊你是可以配置的发送邮件模块的方法可以用smtp协议也可以用日志文件。
+
+装修模式Decorator
+这种模式的特点就是，类的构造函数里面传入同一个父类的实例。每一个具体的装修模式之类他完成一定的职责以后又返回父类。
+
+观察者Observer模式
+publisher/subscriber
+
+Model Factory  模式
+Larvel5.1之后才具有的功能，非常好用！尤其用于Database Seeding。用之前define 一下具体字段的属性。
+$users = factory(User::class, 3)->make();
+$users = factory(User::class, 3)->create（）；
+/home/hliu/Code/sky/database/factories/ModelFactory.php
+
+Repository模式
+Repository是一个interface。Eloquent。。。是针对interface的实现。
+二者的关联，通过 App：：bind（抽象，具体）来实现；或者，直接通过service provider 的register（）里面进行App::bind.
+consumer程序(通常是controller)只需要知道interface，不必要知道具体的实现类。
+
+ServiceProvider模式
+两个重要的方法：
+    --register（），做binding
+    --provides（），返回名称，例如：‘hash’，‘auth’
+
+门面Facade模式
+getFacadeAccessor（）返回名称字符串
+
+表面上静态函数调用，Route：：get（），背后的实现
+__callStatic($method, $args)
+   public static function __callStatic($method, $args)
+    {
+        $instance = static::getFacadeRoot();
+        if (! $instance) {
+            throw new RuntimeException('A facade root has not been set.');
+        }
+        switch (count($args)) {
+            case 0:
+                return $instance->$method();
+            case 1:
+                return $instance->$method($args[0]);
+            case 2:
+                return $instance->$method($args[0], $args[1]);
+...
+            default:
+                return call_user_func_array([$instance, $method], $args);
+        }
+    }
+}
